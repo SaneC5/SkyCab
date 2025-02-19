@@ -160,11 +160,11 @@ body {
     }
 
     .carousel-caption h5 {
-        font-size: 1.3rem; /* Adjust font size for smaller mobile screens */
+        font-size: 1.1rem; /* Adjust font size for smaller mobile screens */
     }
 
     .carousel-caption p {
-        font-size: 0.9rem; /* Adjust subtitle font size for mobile screens */
+        font-size: 0.7rem; /* Adjust subtitle font size for mobile screens */
     }
 }
 
